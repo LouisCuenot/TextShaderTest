@@ -3,7 +3,7 @@ import React from 'react'
 
 const Controls = () => {
   return (
-    <OrbitControls/>
+    <OrbitControls enabled={false} />
   )
 }
 
